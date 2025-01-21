@@ -8,11 +8,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusFarias8&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFarias8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MatheusFarias8&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ### 👾 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusFarias8?theme=catppuccinMocha&font=Ubuntu%20Mono)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
