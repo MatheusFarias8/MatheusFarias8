@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusFarias8&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFarias8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 👾 LeetCode
+## 👾 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusFarias8?theme=catppuccinMocha&font=Ubuntu%20Mono)
 
 ### ✍️ Random Dev Quote
