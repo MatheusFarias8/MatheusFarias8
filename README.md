@@ -15,4 +15,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MatheusFarias8&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 👾 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusFarias8?theme=dark&font=Ubuntu%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusFarias8?theme=catppuccinMocha&font=Ubuntu%20Mono)
