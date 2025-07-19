@@ -11,5 +11,3 @@
 ## 👾 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusFarias8?theme=catppuccinMocha&font=Ubuntu%20Mono)
 
-
-![](https://visitcount.itsvg.in/api?id=MatheusFarias8&icon=1&color=0)](https://visitcount.itsvg.in)
