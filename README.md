@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira&size=35&duration=4000&pause=1000&color=2E95F7&width=435&lines=Matheus+Farias;Backend+Developer;Welcome!+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira&size=35&duration=2500&pause=100&color=2E95F7&width=435&lines=Matheus+Farias;Backend+Developer;Welcome!+%E2%98%95)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusfarias8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-farias-736428249)
